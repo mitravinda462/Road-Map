@@ -1,5 +1,5 @@
 # Road Map
-It is a simple implementation a travel planner using graph datastruture.
+It is a simple implementation a travel planner using graph data structure.
 This program supports the following funtions:
 1) Creation of an undirected graph with destination names as nodes and time of travel between destinations as weights of the edges.
 2) Addition of a new destination.
